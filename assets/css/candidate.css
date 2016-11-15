@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+.tab-hedding-name { font-size: 25px; font-weight: 400; color: #4d4d4d; padding-top: 15px; }
+.btn-medium { padding-left: 15px; padding-right: 15px; font-size: 12px; line-height: 30px; font-weight: bold; }
+.view { margin-bottom: 25px; }
+.viewborder { border-bottom: 1px solid #ccc; }
+.jobtitle { color: #2aadde; font-size: 18px; margin-bottom: 10px; font-weight: 400; }
+.jobtitle1 { color: #2aadde; font-size: 14px; margin-bottom: 10px !important; color: #303c42; }
+.jobtitle2 { color: red; font-size: 14px; margin-bottom: 10px !important; }
+.padding0 { padding: 0; }
+.candidate-profile i { margin-right: 10px; }
+.progress-bar { display: block; margin: 9px 0; position: relative; }
+.bottom-15 { margin-bottom: 10px !important; }
+.bottom-20 { margin-bottom: 10px !important; }
+.edu { margin-left: 5px; }
+.edufont { font-size: 18px; color: #303c42; font-style: italic; font-weight: 500; }
+.edufont1 { font-size: 16px; color: #303c42; font-weight: 500; }
+a { color: #303c42; }
+.remove { padding: 0 !important; margin: 0!important; }
+.margin-top { margin-top: 15px; }
+.margin-bottom { margin-top: 15px; }
+.breadcrumb { padding: 8px 15px; list-style: none; }
+.breadcrumb>li { display: inline-block }
+.breadcrumb>li+li:before { padding: 0 5px; color: #ccc; content: "/\00a0" }
+.breadcrumb>.active { color: #777 }
+.breadcrumb > li + li:before { color: #CCCCCC; content: "/ "; padding: 0 5px; }
+.jobsspace { margin: 25px 0 025px; }
+.btn-default1 { background: #da3a3a; color: #fff; margin-top: 15px; }
+.btn-default1 a:hover { background: #c62b2b; color: #fff; }
+a:hover { color: #2aadde; }
+a { color: #2aadde; }
+.alerttext { font-size: 16px; color: #da3a3a; font-weight: 400; }
+.alerttext1 { font-size: 16px; color: #da3a3a; font-weight: 400; }
+.alertbg { padding: 0; margin: 0; height: 40px; padding-top: 10px; background: #f0f0f0; }
+.coverletter-title { color: #2aadde; font-size: 16px; margin-bottom: 10px; font-weight: 400; }
+.coverbg { margin: 25px 0 025px; }
+.ico i { margin-right: 5px; margin-left: 15px; }
+.newsletter { font-size: 14px; text-align: left; margin-top: 15px; }
+.menuicon i{margin-top:8px;}
+.edcWrapperw{border: 1px dotted;
+    border-radius: 3px;
+    line-height: 25px;
+    margin-left: 5px;
+    padding-top: 10px;
+    width: 45%;}

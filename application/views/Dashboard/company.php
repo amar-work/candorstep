@@ -17,13 +17,33 @@
                      <a href="<?php echo EMP_POST_JOB;?>" class="btn btn-orange mt20">POST JOB</a>
                     </div>
                     <div class="col-md-6">
-                      <h4 class="media-heading">Quick Stats - June</h4>
-                    	<ul class="list-group">
-                        <li class="list-group-item"><span class="badge">14</span>Live jobs</li>
-                        <li class="list-group-item"><span class="badge">14</span> Jobs Posted </li>
-                        <li class="list-group-item"><span class="badge">14</span>Job views </li>
-                        <li class="list-group-item"><span class="badge">14</span>Applications Received</li>
-                        </ul>
+                       <h4 class="media-heading">Quick Stats - June</h4>
+                    	<div class="row mt20 text-center">
+                        <div class="col-md-3 col-sm-6">
+                        <div class="employer-stats-panel bg1">
+                        	<p>Live jobs</p>
+                            <span>12</span>
+                        </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                         <div class="employer-stats-panel bg2">
+                        	<p>Jobs Posted</p>
+                            <span>12</span>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                         <div class="employer-stats-panel bg3">
+                        	<p>Job views</p>
+                            <span>12</span>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                         <div class="employer-stats-panel bg4">
+                        	<p>Applications Received</p>
+                            <span>12</span>
+                            </div>
+                        </div>
+                        </div>
                     </div>                
                 </div>
 			</div>

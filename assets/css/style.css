@@ -4638,6 +4638,32 @@ background: linear-gradient(135deg, #e570e7 0%,#a849a3 100%); /* W3C, IE10+, FF1
 	text-align:center;
 	padding:100px 0;
 }
+.employer-stats-panel {
+    width: 120px;
+    border-radius: 20px;
+    height: 100px;
+    padding-top: 14px;
+}
+.employer-stats-panel span {
+	font-size:40px;
+	font-weight:500
+}
+.bg1 {
+	
+    background-color: #0075ff;
+}
+.bg2 {
+	
+    background-color: #b10303;
+}
+.bg3 {
+	
+    background-color: #c900ff;
+}
+.bg4 {
+	
+    background-color: #ff0044;
+}
 
 /*-------------------Employer-signup-----------------------*/
 .employer-signup {
